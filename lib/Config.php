@@ -1,6 +1,6 @@
 <?php 
-$username="appideme_v2";
-$password="rW*j3Cl7C)_!";
+$username="";
+$password="";
 $host="localhost";
-$database="appideme_v2";
+$database="";
 ?>
